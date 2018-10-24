@@ -1,5 +1,8 @@
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Doko e
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Masamune, Hakuchō
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36116
     wikipedia: http://en.wikipedia.org/wiki/Hakuch%C5%8D_Masamune
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32941#book
 gutenberg_issued: '2010-06-21'
 gutenberg_type: Text
 identifiers:
